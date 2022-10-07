@@ -10,4 +10,4 @@ python3 LFIer.py -u <url> -p <parameter>
 python3 LFIer.py -u http://testphp.vulnweb.com/showimage.php -p file
 ```
 ### License
-Mohamed Sayed [@kanike991](https://twitter.com/kanike99)
+Mohamed Sayed [@kanike99](https://twitter.com/kanike99)
